@@ -1,7 +1,0 @@
-venv/
-__pycache__/
-*.pyc
-.DS_Store
-models/multitask_regressor/
-models/dataset_split.pkl
-.streamlit/secrets.toml
