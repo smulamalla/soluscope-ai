@@ -1,9 +1,10 @@
 # SoluScope AI 💧
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://soluscope-ai.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/smulamalla/soluscope-ai)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 
 **SoluScope AI** is an explainable machine learning tool that predicts the aqueous solubility of small molecules from their chemical structure — a property that drug discovery teams rely on early in the pipeline to flag compounds that are unlikely to become viable oral drugs.
 
@@ -74,6 +75,14 @@ SoluScope AI is trained on the **ESOL (Delaney) dataset**, distributed through M
 | Support Vector Regression | 0.741 |
 
 The SVR architecture was carried forward and hyperparameter-tuned (`kernel=rbf, C=100, gamma=scale`), reaching a final **test R² of 0.730**.
+
+## Development Blog Series
+
+Rather than treating this as a one-time project, I documented the entire development process — from following the initial DeepChem tutorial to the finished, explainable application. The blog series covers the reasoning behind each major feature, implementation details, model development and evaluation, molecular featurization, design decisions, debugging challenges, and the lessons I learned while building an explainable AI tool for molecular solubility prediction and drug discovery.
+
+If you'd like to see how the project evolved over time, visit my portfolio and scroll to the **Projects** section, where you'll find the SoluScope AI progress blogs.
+
+🔗 **Portfolio:** https://smulamalla.github.io/
 
 ## Getting Started
 
