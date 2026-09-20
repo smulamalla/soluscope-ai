@@ -99,20 +99,21 @@ Then open `http://localhost:8501` in your browser.
 
 ## Project Structure
 
+```text
 soluscope-ai/
-├── app.py # Streamlit dashboard
-├── notebooks/ # Development notebooks (01-12)
-├── models/ # Trained model artifacts
-│ ├── best_solubility_model.pkl
-│ ├── transformer.pkl
-│ ├── random_forest.pkl
-│ └── top_bits.pkl
-├── assets/ # Screenshots and images used in this README
+├── app.py                  # Streamlit dashboard
+├── notebooks/              # Development notebooks (01–12)
+├── models/                 # Trained model artifacts
+│   ├── best_solubility_model.pkl
+│   ├── transformer.pkl
+│   ├── random_forest.pkl
+│   └── top_bits.pkl
+├── assets/                 # Screenshots and images used in this README
 ├── Dockerfile
 ├── .dockerignore
-├── requirements.txt # Production dependencies
-└── requirements-dev.txt # Full development dependencies
-
+├── requirements.txt        # Production dependencies
+└── requirements-dev.txt    # Full development dependencies
+```
 
 ## Limitations
 
