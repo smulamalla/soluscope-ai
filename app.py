@@ -363,7 +363,7 @@ st.caption("Enter a molecule's SMILES string below, then click Predict Solubilit
 _, input_col, _ = st.columns([1, 2, 1])
 with input_col:
     with st.container(key="molecule_input_box"):
-        smiles_input = st.text_input("SMILES String", value="", placeholder="\"CCO\" for ethanol, \"CC(=O)O\" for acetic acid, etc.", max_chars=MAX_SMILES_LENGTH)
+        smiles_input = st.text_input("SMILES String", value="", placeholder="\"CCO\" for ethanol", max_chars=MAX_SMILES_LENGTH)
 
 st.markdown("<div style='height:0.8rem;'></div>", unsafe_allow_html=True)
 _, btn_col, _ = st.columns([1, 2, 1])
