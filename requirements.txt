@@ -1,0 +1,7 @@
+streamlit==1.64.0
+numpy==1.26.4
+pandas==3.0.6
+scikit-learn==1.9.1
+rdkit==2026.3.6
+pillow==12.3.0
+deepchem==2.8.1.dev20260821122258
