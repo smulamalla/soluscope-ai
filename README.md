@@ -136,8 +136,9 @@ This project is licensed under the MIT License.
 ## Author
 
 **Sohan Mulamalla**
+
 AI / Machine Learning Engineer focused on healthcare applications.
 
-GitHub: [github.com/smulamalla](https://github.com/smulamalla)
-LinkedIn: [linkedin.com/in/smulamalla/](https://www.linkedin.com/in/smulamalla/)
-Portfolio: [smulamalla.github.io](https://smulamalla.github.io/)
+- GitHub: [github.com/smulamalla](https://github.com/smulamalla)
+- LinkedIn: [linkedin.com/in/smulamalla/](https://www.linkedin.com/in/smulamalla/)
+- Portfolio: [smulamalla.github.io](https://smulamalla.github.io/)
